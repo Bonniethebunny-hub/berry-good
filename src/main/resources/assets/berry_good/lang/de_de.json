@@ -1,10 +1,13 @@
 {
-  "block.berry_good.sweet_berry_bush_pips": "Süßbeerkerne",
-
+  "block.berry_good.glow_berry_basket": "Leuchtbeerenkorb",
+  "block.berry_good.sweet_berry_basket": "Süßbeerenkorb",
+  
+  "item.berry_good.glow_berry_pips": "Leuchtbeerenkerne",
+  "item.berry_good.glowgurt": "Glühgurt",
+  "item.berry_good.music_disc_fox": "Schallplatte",
   "item.berry_good.sweet_berry_pips": "Süßbeerkerne",
   "item.berry_good.sweet_berry_mince": "Süßbeerhackfleisch",
   "item.berry_good.sweet_berry_meatballs": "Süßbeerfleischkloß",
   
-  "item.berry_good.music_disc_fox": "Schallplatte",
-  "item.berry_good.music_disc_fox.desc": "RENREN - Fox"
+  "jukebox_song.berry_good.fox": "RENREN - Fox"
 }
